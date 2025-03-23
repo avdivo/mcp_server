@@ -1,0 +1,10 @@
+[project]
+name = "mcp_server"
+version = "0.1.0"
+dependencies = [
+    "mcp[cli]==1.5.0",
+    "httpx>=0.28.1",
+    "requests>=2.31.0",
+    "python-dotenv>=1.0.0",
+    "newsapi-python==0.2.7"
+]
