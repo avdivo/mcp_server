@@ -38,10 +38,10 @@ GitHub: [https://github.com/avdivo/mcp_server](https://github.com/avdivo/mcp_ser
 ```
 
 ## Используемые зависимости
-mcp[cli]
-httpx
-requests
-python-dotenv
+mcp[cli]  
+httpx  
+requests  
+python-dotenv  
 newsapi-python
 
 
