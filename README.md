@@ -1,6 +1,6 @@
 # MCP server
 
-GitHub: [git@github.com:avdivo/mcp_server.git](git@github.com:avdivo/mcp_server.git)  
+GitHub: [git@github.com:avdivo/mcp_server](git@github.com:avdivo/mcp_server)  
 
 ## Описание
 Локальный MCP сервер для получения моделью ИИ информации.  
