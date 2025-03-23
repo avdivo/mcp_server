@@ -1,0 +1,20 @@
+{
+    "mcpServers": { 
+      "info-services": {
+        "command": "uv",
+        "args": [
+          "--directory",
+          "/home/avdivo/python/mcp_server",
+          "run",
+          "local_server.py"
+        ],
+        "cwd": "/home/avdivo/python/mcp_server",
+        "env": {
+          "PYTHONPATH": "/home/avdivo/python/mcp_server"
+        }
+      }
+    }
+  }
+  
+  
+  
